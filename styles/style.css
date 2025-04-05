@@ -11,7 +11,6 @@
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
     padding: 96px 50px 92px 50px;
-
 }
 
 .header__links-list {
@@ -75,7 +74,6 @@
     z-index: -1;
     background-color: #000;
     opacity: 60%;
-
 }
 
 .cover__title {
@@ -147,7 +145,6 @@
     font-size: 40px;
     text-transform: uppercase;
     font-weight: bold;
-
 }
 
 .lots__card-list {
@@ -235,8 +232,7 @@
 .about {
     display: grid;
     grid-template-columns: 1fr 2fr;
-    max-width: 100%;
-    
+    max-width: 100%;    
 }
 
 .about__column {
@@ -268,7 +264,6 @@
     font-size: 40px;
     font-weight: bold;
     text-transform: uppercase;
-
 }
 
 .about__text {    
@@ -278,8 +273,7 @@
     margin-right: 30px;
 }
 
-.about__text-paragraph {
-    
+.about__text-paragraph {    
     margin-bottom: 22px;
 }
 
@@ -299,8 +293,7 @@
 
 .footer__menu {
     display: flex;
-    justify-content: center;
-    
+    justify-content: center;    
 }
 
 .footer__menu-list {
