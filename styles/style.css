@@ -10,7 +10,7 @@
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
-    padding: 96px 50px 98px 50px;
+    padding: 96px 50px 92px 50px;
 
 }
 
@@ -84,8 +84,7 @@
     color: #fff;
     font-size: 100px;
     font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 30%;
+    text-transform: uppercase;    
     line-height: 1.15;
 }
 
@@ -116,7 +115,6 @@
     justify-content: space-between;
     padding: 0 50px 50px;
     align-items: center;
-
 }
 
 .cover__description-text {
@@ -125,28 +123,23 @@
     text-align: center;
     font-weight: 400;
     font-size: 22px;
-    letter-spacing: 90%;
     word-spacing: 19px;
 }
 
 .bet-button {
     background-color: transparent;
     border: solid 1px #fff;
-
-}
-
-.button-text {
-    margin: 12px 26px 11px 26px;
+    padding: 8px 32px 12px 32px;
     color: #fff;
     text-transform: uppercase;
     font-weight: 400;
     font-size: 22px;
-
+    text-align: center;
 }
 
 .lots {
     max-width: 100%;
-    padding: 176px 24px 120px;
+    padding: 184px 24px 120px;
 }
 
 .lots__title {
