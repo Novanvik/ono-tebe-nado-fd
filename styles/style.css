@@ -10,7 +10,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 96px 50px 92px 50px;
+  padding: 92px 50px 92px 50px;
 }
 
 .header__links-list {
@@ -252,7 +252,7 @@
 
 .about__text {
   margin-left: 16px;
-  margin-right: 30px;
+  margin-right: 28px;
   font-size: 20px;
   line-height: 1.2;
 }
@@ -265,13 +265,12 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   max-width: 100%;
-  padding: 180px 24px;
+  padding: 182px 50px 24px;
 }
 
 .footer__address {
   display: flex;
   flex-direction: column;
-  margin-left: 26px;
 }
 
 .footer__menu {
@@ -297,8 +296,7 @@
   display: flex;
   justify-content: space-between;
   list-style: none;
-  margin-left: 86px;
-  margin-right: 28px;
+  margin-left: 92px;
 }
 
 .footer__social-list-item {
